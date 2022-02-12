@@ -2,7 +2,7 @@
   "name": "parcel-me",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://abis777-parcelme.github.io",
+  "homepage": "https://abis777.github.io",
   "dependencies": {
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
